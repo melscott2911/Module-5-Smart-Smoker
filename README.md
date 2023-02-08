@@ -1,4 +1,5 @@
 # Module-5-Smart-Smoker
+Mel Scott
 Module 5
 
 The Problem / Challenge To Solve

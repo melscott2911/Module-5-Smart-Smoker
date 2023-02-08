@@ -1,8 +1,9 @@
 # Module-5-Smart-Smoker
 Mel Scott
+
 Module 5
 
-The Problem / Challenge To Solve
+#The Problem / Challenge To Solve
 Please read about the Smart Smoker system here: Smart Smoker
 Access the smoker data file here Download smoker data file here.
 We want to stream information from a smart smoker. Read one value every half minute. (sleep_secs = 30)
